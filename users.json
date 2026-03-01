@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "email": "admin@example.com",
+            "password": "pbkdf2:sha256:600000$xTRKAIjV0vIn1In6$74c860e338aee516758c69bc5b7f3fee00d190e1c55547ce6180ddecd37e94ef",
+            "role": "admin",
+            "created_at": "2026-03-01T12:35:20.101593",
+            "last_login": "2026-03-01T17:36:39.976239",
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "username": "analyst",
+            "email": "analyst@example.com",
+            "password": "pbkdf2:sha256:600000$CdOuGYx8XXZwgbZc$10000630906876151521415b180a88a2a606cda77516ee0edd9f51735b45d59d",
+            "role": "analyst",
+            "created_at": "2026-03-01T12:35:21.090052",
+            "last_login": "2026-03-01T17:28:33.604315",
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "username": "Sugan",
+            "email": "sugans801@gmail.com",
+            "password": "pbkdf2:sha256:600000$nbWSZiS3jysAOyJo$6e533e8f272dffc74d2bf06f1c74b94d1187b53cc1778d17aa26d0d87e0914a1",
+            "role": "analyst",
+            "oauth_provider": null,
+            "oauth_id": null,
+            "created_at": "2026-03-01T14:21:02.630872",
+            "last_login": null,
+            "is_active": true,
+            "email_verified": false
+        }
+    ]
+}
