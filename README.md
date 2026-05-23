@@ -1,9 +1,9 @@
-Federated Learning Based Intrusion Detection System
-Achieved 96.7% detection accuracy by analyzing network traffic data across decentralized nodes using Python and federated deep learning. Preserves data privacy without centralizing sensitive data.
+
 # Federated IDS - Enterprise Intrusion Detection System
 ## Structured Login Setup Guide
 
-This is a complete, production-ready login system for the Federated Deep Learning IDS application.
+Federated Learning Based Intrusion Detection System
+Achieved 96.7% detection accuracy by analyzing network traffic data across decentralized nodes using Python and federated deep learning. Preserves data privacy without centralizing sensitive data. This is a complete, production-ready login system for the Federated Deep Learning IDS application.
 
 ---
 
