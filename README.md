@@ -1,3 +1,4 @@
+
 # Federated IDS - Enterprise Intrusion Detection System
 ## Structured Login Setup Guide
 
@@ -486,3 +487,6 @@ This project is part of the Federated Deep Learning IDS system.
 **Version:** 1.0.0  
 **Last Updated:** March 1, 2026  
 **Status:** ✅ Ready for Development
+
+# federated-learning-intrusion-detection
+
